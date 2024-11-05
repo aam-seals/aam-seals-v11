@@ -1,0 +1,23 @@
+{
+  "name": "aam-seals-v11",
+  "version": "1.0.0",
+  "description": "Project page source. The website design was inspired by [tigerhousefilms](https://tigerhousefilms.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aam-seals/aam-seals-v11.git"
+  },
+  "author": "Yantian Zha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aam-seals/aam-seals-v11/issues"
+  },
+  "homepage": "https://github.com/aam-seals/aam-seals-v11#readme",
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
