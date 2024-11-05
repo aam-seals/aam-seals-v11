@@ -5,18 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aam-seals/aam-seals-v11.git"
-  },
-  "author": "Yantian Zha",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aam-seals/aam-seals-v11/issues"
-  },
-  "homepage": "https://github.com/aam-seals/aam-seals-v11#readme",
   "dependencies": {
     "gh-pages": "^6.2.0"
   }
